@@ -14,7 +14,7 @@
 - <b>Import and Parse a File Lab</b>
   - [Parsing Files(Python)](https://github.com/cyberlex107/Parsing-Files)
 - <b>Define and Call a Function</b>
-  - [Creating a Function (Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Creating a Function (Python)](https://github.com/cyberlex107/Functions)
  
 
 <h2>👨‍💻 Certifications:</h2>
