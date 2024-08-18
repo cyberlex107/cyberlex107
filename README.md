@@ -5,7 +5,7 @@
 - <b>Apply Filters to SQL Queries (Linux)</b>
   - [Practicing with SQL](https://github.com/cyberlex107/SQL-Queries)
 - <b>File Permissions in Linux </b>
-  - [Checking and Updating Permissions](https://github.com/cyberlex107/File-Permissions-) <b><i>(SQL)</b></i>
+  - [Checking and Updating Permissions](https://github.com/cyberlex107/File-Permissions-) <b><i>(Linux Commands)</b></i>
 - <b>Hello !</b>
   - [Practice with Python](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Develop an Algorithm Lab</b>
