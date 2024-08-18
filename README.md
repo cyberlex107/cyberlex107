@@ -10,7 +10,7 @@
   - [Practice with Python](https://github.com/cyberlex107/Hello-Python)
 - <b>Develop an Algorithm Lab</b>
   - [Connecting users to their assigned devices (Python)](https://github.com/cyberlex107/Algorithms)
-  - [Update files (Python)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Update files (Python)](https://github.com/cyberlex107/Algorithm2)
 - <b>Import and Parse a File Lab</b>
   - [Parsing Files(Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Define and Call a Function</b>
