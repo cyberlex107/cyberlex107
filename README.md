@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Apply Filters to SQL Queries (Linux)</b>
-  - [Practicing with SQL](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing with SQL](https://github.com/cyberlex107/SQL-Queries)
 - <b>File Permissions in Linux </b>
   - [Checking and Updating Permissions](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(SQL)</b></i>
 - <b>Hello !</b>
