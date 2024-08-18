@@ -7,7 +7,7 @@
 - <b>File Permissions in Linux </b>
   - [Checking and Updating Permissions](https://github.com/cyberlex107/File-Permissions-) <b><i>(Linux Commands)</b></i>
 - <b>Hello !</b>
-  - [Practice with Python](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Practice with Python](https://github.com/cyberlex107/Hello-Python)
 - <b>Develop an Algorithm Lab</b>
   - [Connecting users to their assigned devices (Python)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Update files (Python)](https://github.com/joshmadakor1/DecrypterPOC)
