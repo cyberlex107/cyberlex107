@@ -2,19 +2,19 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Applyiing permissions (Linux)</b>
-  - [Practining file permissions](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Defining and calling a function</b>
-  - [Using Python to define and call a new function](https://github.com/joshmadakor1/Sentinel-Lab)
-
-- <b>Develop an Algorithm</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Update a file Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Apply Filters to SQL Queries (Linux)</b>
+  - [Practicing with SQL](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>File Permissions in Linux </b>
+  - [Checking and Updating Permissions](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(SQL)</b></i>
+- <b>Hello !</b>
+  - [Practice with Python](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Develop an Algorithm Lab</b>
+  - [Connecting users to their assigned devices (Python)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Update files (Python)](https://github.com/joshmadakor1/DecrypterPOC)
+- <b>Import and Parse a File Lab</b>
+  - [Parsing Files(Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Define and Call a Function</b>
+  - [Creating a Function (Python)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
 
 <h2>👨‍💻 Certifications:</h2>
